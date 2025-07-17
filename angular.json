@@ -107,5 +107,7 @@
       }
     }
   },
-  "defaultProject": "softka-proyect"
+  "cli": {
+    "analytics": "ded1d8f3-2305-40f9-b0c0-c9fc3eb3caf1"
+  }
 }
